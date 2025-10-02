@@ -21,3 +21,8 @@ Challenge 2: Sensor Data Collection
 Challenge 3: Two-Way Chat System
 ![alt text](<image/Screenshot 2025-10-02 124210.png>)
 ![alt text](<image/Screenshot 2025-10-02 125239.png>)
+
+
+Broadcaster+Receiver Nodes (Client Nodes)
+![alt text](<image/Screenshot 2025-10-02 135324.png>)
+![alt text](<image/Screenshot 2025-10-02 135338.png>)
